@@ -40,4 +40,6 @@ key = 42
 encrypt_file(input_file, output_file, caesar_encrypt, shift)
 decrypt_file(output_file, 'decrypted.txt', caesar_decrypt, shift)
 
+# being UI architecture here
+
 
